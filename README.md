@@ -77,8 +77,3 @@ This project taught me:
 - How to handle files in Python
 - How to make my code faster
 - How to check for errors
-
-## Author
-
-Name: Ibrahim Salami
-Date: 2025 
